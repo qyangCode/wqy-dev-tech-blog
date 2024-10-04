@@ -2,6 +2,8 @@
 title: 个人简历
 index: false
 icon: laptop-code
+navbar: false
+sidebar: false
 category:
   - 自我介绍
   - 专业技能
