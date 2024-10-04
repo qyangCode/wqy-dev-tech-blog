@@ -1,7 +1,8 @@
 ---
 title: Linux 基础
 index: false
-icon: linux
+icon: laptop-code
+heroImage: /linux-brands-solid.svg
 heroText: linux 学习之始
 tagline: Linux是一种免费开源的类Unix操作系统。‌Linux是一个多任务多用户的网络服务器操作系统，具有开源、免费、安全性高、稳定、性能好等特点。
 ---
