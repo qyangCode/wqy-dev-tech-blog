@@ -11,6 +11,6 @@ export default navbar([
   {
     text: "学习笔记",
     icon: "book",
-    link: "/md/linux/1.md",
+    link: "/md/linux",
   },
 ]);
