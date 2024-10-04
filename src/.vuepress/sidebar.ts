@@ -29,13 +29,13 @@ export default sidebar({
     },
     {
       text: "java 基础",
-      icon: "java",
+      icon: "coffee",
       prefix: "md/java/",
       children: ["1.md","2.md","3.md","4.md"],
     },
     {
       text: "SpringBoot",
-      icon: "bootstrap",
+      icon: "terminal",
       prefix: "md/springboot/",
       children: ["1.md","2.md","3.md","4.md"],
     },

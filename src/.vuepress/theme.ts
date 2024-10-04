@@ -7,7 +7,7 @@ export default hopeTheme({
 
   author: {
     name: "Yang",
-    url: "https://mister-hope.com",
+    url: "https://qyangCode.github.io",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "我的微信：fustack",
+  footer: "<a href='mailto:2409834864@qq.com'>如果有想要探讨的欢迎邮件交流</a>",
 
   displayFooter: true,
 
@@ -117,6 +117,10 @@ export default hopeTheme({
       // install @vue/repl before enabling it
       // vuePlayground: true,
     },
+
+    pwa: {
+      favicon: "/favicon.ico",
+    }
 
     // uncomment these if you want a pwa
     // pwa: {
