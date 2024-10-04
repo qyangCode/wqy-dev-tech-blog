@@ -118,9 +118,6 @@ export default hopeTheme({
       // vuePlayground: true,
     },
 
-    pwa: {
-      favicon: "/favicon.ico",
-    }
 
     // uncomment these if you want a pwa
     // pwa: {
