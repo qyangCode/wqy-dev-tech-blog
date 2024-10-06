@@ -10,11 +10,15 @@ export default hopeTheme({
     url: "https://qyangCode.github.io",
   },
 
+  favicon: "/favicon.jpg",
+
   iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.svg",
 
   repo: "qyangCode/wqy-dev-tech-blog/",
+
+  contributors: false,
 
   docsDir: "src",
 
@@ -27,6 +31,9 @@ export default hopeTheme({
   footer: "<a href='mailto:2409834864@qq.com'>如果有想要探讨的欢迎邮件交流</a>",
 
   displayFooter: true,
+
+  //开启路径
+  breadcrumb: false,
 
   encrypt: {
     config: {
