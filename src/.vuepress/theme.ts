@@ -32,8 +32,8 @@ export default hopeTheme({
 
   displayFooter: true,
 
-  //开启路径
-  breadcrumb: false,
+  // //开启路径
+  // breadcrumb: false,
 
   encrypt: {
     config: {
