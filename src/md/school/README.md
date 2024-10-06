@@ -7,7 +7,7 @@ icon: laptop-code
 <br/>
 
 
-:::
+::: tip
 
 **背景介绍**
 
