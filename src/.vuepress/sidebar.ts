@@ -9,7 +9,7 @@ export default sidebar({
       link: "md/linux/",
       icon: "laptop-code",
       prefix: "md/linux/",
-      children: ["1.md","2.md","3.md","4.md","5.md","6.md","7.md"],
+      children: ["1.md","2.md","3.md","4.md","5.md","6.md","7.md","8.md"],
     },
     {
       text: "个人博客搭建",
@@ -33,7 +33,7 @@ export default sidebar({
       collapsible: true,
       icon: "coffee",
       prefix: "md/java/",
-      children: ["1.md","2.md","3.md","4.md"],
+      children: ["1.md","2.md","3.md","4.md","5.md"],
     },
     {
       text: "SpringBoot",
@@ -42,6 +42,14 @@ export default sidebar({
       icon: "terminal",
       prefix: "md/springboot/",
       children: ["1.md","2.md","3.md","4.md","5.md"],
+    },
+    {
+      text: "MySQL",
+      collapsible: true,
+      link: "md/mysql/",
+      icon: "database",
+      prefix: "md/mysql/",
+      children: ["1.md","2.md","3.md"],
     },
     {
       text: "随笔",

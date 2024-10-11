@@ -18,6 +18,11 @@ export default navbar([
         icon: "coffee",
         link: "/md/java/",
       },
+      {
+        text: "mysql学习",
+        icon: "database",
+        link: "/md/mysql/",
+      },
     ],
   },
   {
